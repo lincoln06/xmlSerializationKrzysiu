@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXHPhUNDf3BuVfjdwsrpYlRuIo+96Z8sbl2z6iFBbxePh9Gt52DhQA3V2RYRsrMNAA8kVKCME0r0M3GO8q75zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macie\\source\\repos\\FunWithSerialization\\FunWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
